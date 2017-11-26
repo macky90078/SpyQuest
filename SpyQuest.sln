@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyQuest", "SpyQuest.csproj", "{F00CFACE-387A-604F-F632-D79F4BC148F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00CFACE-387A-604F-F632-D79F4BC148F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CFACE-387A-604F-F632-D79F4BC148F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CFACE-387A-604F-F632-D79F4BC148F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CFACE-387A-604F-F632-D79F4BC148F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
