@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyQuest", "SpyQuest.csproj", "{F00CFACE-387A-604F-F632-D79F4BC148F3}"
 EndProject
 Global
